@@ -347,8 +347,7 @@ will return group ban list
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only owner can use res,setowner,promote,demote and log commands
-محمد رضا mohammadreza
-بابام کار داری ایدیش این برو پی ویش @mohammadreza1480
+
 ]]
 
   }
